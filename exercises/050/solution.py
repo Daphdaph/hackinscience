@@ -6,5 +6,3 @@ for i in range(0, 1001):
         if i % 5 == 0:
             a = a+i
 print(a)
-    
-    
